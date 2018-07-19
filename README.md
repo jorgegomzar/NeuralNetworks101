@@ -1,11 +1,11 @@
 <h1>Credits to Michael Nielsen</h1>
 <p>I do own this code but not the ideas behind of it. All of them come from Michael Nielsen's free book <a href="http://neuralnetworksanddeeplearning.com/index.html"><q>Neural Networks and Deep Learning</q></a></p>
 <ul>
-	<a href="cheese/cheese.py">
-		<li>
+	<li>
+		<a href="cheese/cheese.py">
 			<h1>Cheese.py</h1>
-		</li>
-	</a>
+		</a>
+	</li>
 	<p>I made this code in order to test the <b>Perceptron</b> concept. The exposition in the original source:</p>
 	<p><q> Suppose the weekend is coming up, and you've heard that there's going to be a cheese festival in your city. You like cheese, and are trying to decide whether or not to go to the festival. You might make your decision by weighing up three factors:
 	<ol>
