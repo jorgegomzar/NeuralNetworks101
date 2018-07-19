@@ -23,7 +23,7 @@
 	By varying the weights and the threshold, we can get different models of decision-making.
 	</q></i></p>
 	<p>So, I was moved to try and test it on code. This was the input and output I used to train my neural network:</p>
-	<div class="center" style="text-align: center">
+	<div class="center" style="margin-left: 20%">
 		<table>
 		<tr>
 			<td align="center"><b>x<sub>1</sub></b></td>
