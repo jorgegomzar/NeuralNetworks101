@@ -21,11 +21,11 @@
 	By varying the weights and the threshold, we can get different models of decision-making.
 	</q></i></p>
 	<p>So, I was moved to try and test it on code.</p>
-	<table border="1">
+	<table border="1" style="text-align: center">
 		<tr>
-			<td><<b>x<<sub>1</sub></b></td>
-			<td><<b>x<<sub>2</sub></b></td>
-			<td><<b>x<<sub>3</sub></b></td>
+			<td><b>x<sub>1</sub></b></td>
+			<td><b>x<sub>2</sub></b></td>
+			<td><b>x<sub>3</sub></b></td>
 			<td>Going</td>
 		</tr>
 		<tr>
