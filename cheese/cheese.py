@@ -5,7 +5,6 @@ def sigmoid(z):
 	"""Sigmoid function"""
 	return 1 / (1 + exp(-z))
 
-
 training_set_inputs = array([[0,0,0], [1, 1, 1], [1, 0, 0], [1, 1, 0]])
 training_set_outputs = array([[0, 1, 0, 1]]).T
 random.seed(1)
