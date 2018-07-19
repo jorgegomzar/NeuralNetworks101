@@ -26,7 +26,7 @@
 			<td align="center"><b>x<sub>1</sub></b></td>
 			<td align="center"><b>x<sub>2</sub></b></td>
 			<td align="center"><b>x<sub>3</sub></b></td>
-			<td align="center">Going</td>
+			<td align="center"><b>Going</b></td>
 		</tr>
 		<tr>
 			<td align="center">0</td>
