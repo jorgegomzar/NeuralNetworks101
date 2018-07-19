@@ -2,7 +2,7 @@
 <p>I do own this code but not the ideas behind of it. All of them come from Michael Nielsen's free book <a href="http://neuralnetworksanddeeplearning.com/index.html"><q>Neural Networks and Deep Learning</q></a></p>
 <ul>
 	<li>
-		<a href="https://github.com/jorgegomzar/NeuralNetworks101/blob/master/cheese/cheese.py">
+		<a href="./cheese/cheese.py">
 			<h1>Cheese.py</h1>
 		</a>
 	</li>
@@ -53,5 +53,5 @@
 			<td align="center">1</td>
 		</tr>
 	</table>
-	<p>Then I used the random library for python to assign random weights to each input, after that I iterated 10000 times using the sigmoid function and voilà.</p>
+	<p>Then I used the random library for python to assign random weights to each input. After that, I iterated 10000 times using the sigmoid function and voilà. At the end of this process, the network was ready to take decisions by its own from different inputs.</p>
 </ul>
