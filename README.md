@@ -23,34 +23,34 @@
 	<p>So, I was moved to try and test it on code.</p>
 	<table border="1">
 		<tr>
-			<td style="text-align: center"><b>x<sub>1</sub></b></td>
-			<td style="text-align: center"><b>x<sub>2</sub></b></td>
-			<td style="text-align: center"><b>x<sub>3</sub></b></td>
-			<td style="text-align: center">Going</td>
+			<td align="center"><b>x<sub>1</sub></b></td>
+			<td align="center"><b>x<sub>2</sub></b></td>
+			<td align="center"><b>x<sub>3</sub></b></td>
+			<td align="center">Going</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">0</td>
-			<td style="text-align: center">0</td>
-			<td style="text-align: center">0</td>
-			<td style="text-align: center">0</td>
+			<td align="center">0</td>
+			<td align="center">0</td>
+			<td align="center">0</td>
+			<td align="center">0</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">1</td>
-			<td style="text-align: center">1</td>
-			<td style="text-align: center">1</td>
-			<td style="text-align: center">1</td>
+			<td align="center">1</td>
+			<td align="center">1</td>
+			<td align="center">1</td>
+			<td align="center">1</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">1</td>
-			<td style="text-align: center">0</td>
-			<td style="text-align: center">0</td>
-			<td style="text-align: center">0</td>
+			<td align="center">1</td>
+			<td align="center">0</td>
+			<td align="center">0</td>
+			<td align="center">0</td>
 		</tr>
 		<tr>
-			<td style="text-align: center">1</td>
-			<td style="text-align: center">1</td>
-			<td style="text-align: center">0</td>
-			<td style="text-align: center">1</td>
+			<td align="center">1</td>
+			<td align="center">1</td>
+			<td align="center">0</td>
+			<td align="center">1</td>
 		</tr>
 	</table>
 </ul>
