@@ -23,8 +23,7 @@
 	By varying the weights and the threshold, we can get different models of decision-making.
 	</q></i></p>
 	<p>So, I was moved to try and test it on code. This was the input and output I used to train my neural network:</p>
-	<div class="center" style="margin-left: 20%">
-		<table>
+	<table align="center">
 		<tr>
 			<td align="center"><b>x<sub>1</sub></b></td>
 			<td align="center"><b>x<sub>2</sub></b></td>
@@ -56,6 +55,5 @@
 			<td align="center">1</td>
 		</tr>
 	</table>
-	</div>
 	<p>Then I used the random library for python to assign random weights to each input. After that, I iterated 10000 times using the sigmoid function and voilà. At the end of this process, the network was ready to take decisions by its own from different inputs.</p>
 </ul>
