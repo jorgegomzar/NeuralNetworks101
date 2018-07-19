@@ -22,35 +22,35 @@
 	</q></i></p>
 	<p>So, I was moved to try and test it on code.</p>
 	<table border="1">
-		<tr style="text-align: center">
-			<td><b>x<sub>1</sub></b></td>
-			<td><b>x<sub>2</sub></b></td>
-			<td><b>x<sub>3</sub></b></td>
-			<td>Going</td>
-		</tr>
-		<tr style="text-align: center">
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-		</tr>
-		<tr style="text-align: center">
-			<td>1</td>
-			<td>1</td>
-			<td>1</td>
-			<td>1</td>
-		</tr>
-		<tr style="text-align: center">
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
+		<tr>
+			<td style="text-align: center"><b>x<sub>1</sub></b></td>
+			<td style="text-align: center"><b>x<sub>2</sub></b></td>
+			<td style="text-align: center"><b>x<sub>3</sub></b></td>
+			<td style="text-align: center">Going</td>
 		</tr>
 		<tr>
-			<td>1</td>
-			<td>1</td>
-			<td>0</td>
-			<td>1</td>
+			<td style="text-align: center">0</td>
+			<td style="text-align: center">0</td>
+			<td style="text-align: center">0</td>
+			<td style="text-align: center">0</td>
+		</tr>
+		<tr>
+			<td style="text-align: center">1</td>
+			<td style="text-align: center">1</td>
+			<td style="text-align: center">1</td>
+			<td style="text-align: center">1</td>
+		</tr>
+		<tr>
+			<td style="text-align: center">1</td>
+			<td style="text-align: center">0</td>
+			<td style="text-align: center">0</td>
+			<td style="text-align: center">0</td>
+		</tr>
+		<tr>
+			<td style="text-align: center">1</td>
+			<td style="text-align: center">1</td>
+			<td style="text-align: center">0</td>
+			<td style="text-align: center">1</td>
 		</tr>
 	</table>
 </ul>
