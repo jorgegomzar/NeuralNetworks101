@@ -2,7 +2,7 @@
 <p>I do own this code but not the ideas behind of it. All of them come from Michael Nielsen's free book <a href="http://neuralnetworksanddeeplearning.com/index.html"><q>Neural Networks and Deep Learning</q></a></p>
 <ul>
 	<li>
-		<a href="cheese/cheese.py">
+		<a href="https://github.com/jorgegomzar/NeuralNetworks101/blob/master/cheese/cheese.py">
 			<h1>Cheese.py</h1>
 		</a>
 	</li>
